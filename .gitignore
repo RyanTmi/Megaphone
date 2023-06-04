@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+**/.DS_Store
+
+obj/
+bin/
+res/
+
+*.sh
+mp.log
+*.data
+scripts
